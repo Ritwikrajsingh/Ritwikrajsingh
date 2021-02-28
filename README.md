@@ -3,11 +3,11 @@
 - :seedling: Still learning.
 - :robot: Crazy for gadgets.
 - :zap: Fun fact: Can easily be lured by a cup of tea and .... Yeah! I'm [technophilic](# "According to Wikipedia, Technophilic is a personality, having strong enthusiasm for technology, especially new technologies such as; personal computers, the Internet, mobile phones, etc..").
-- :heart_eyes: Perfect Time = Code :computer: + Tea :tea: + Music :headphones:
+- :heart_eyes: Perfect time = Code :computer: + Tea :tea: + Music :headphones:
 ### Stats
 <div>
 <p align="center">  
-<img align="center" title="Demon's Stats" width="532px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&hide_border=true&hide=prs&theme=graywhite" /><img align="center" title="Languages Used" width="310px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&theme=graywhite&hide_border=true" />
+<img align="center" title="Demon's Stats" width="534px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&hide_border=true&hide=prs&theme=graywhite" /><img align="center" title="Languages Used" width="312px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&theme=graywhite&hide_border=true" />
 </p>
 </div>
 
