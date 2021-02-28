@@ -7,7 +7,7 @@
 ### Stats
 <div>
 <p align="center">  
-<img align="center" title="Demon's Stats" width="531px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&hide_border=true&hide=prs&theme=graywhite" /><img align="center" title="Languages Used" width="309px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&theme=graywhite&hide_border=true" />
+<img align="center" title="Demon's Stats" width="532px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&hide_border=true&hide=prs&theme=graywhite" /><img align="center" title="Languages Used" width="310px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritwikrajsingh&langs_count=6&theme=graywhite&hide_border=true" />
 </p>
 </div>
 
