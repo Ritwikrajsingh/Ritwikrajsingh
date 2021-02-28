@@ -10,7 +10,7 @@
 </p>
 
 ### :mailbox: How to reach me
-##### Twitter[<img align="left" title="RitwikRajSingh2" alt="RitwikRajSingh2" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RitwikRajSingh2/) <img align="right" width="200" height="200" alt="good day" src="https://ritwikrajsingh.github.io/assets/images/good_day.png" title="That's me">
+##### Twitter[<img align="left" title="RitwikRajSingh2" alt="RitwikRajSingh2" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RitwikRajSingh2/) <img align="right" width="180" height="180" alt="good day" src="https://ritwikrajsingh.github.io/assets/images/good_day.png" title="That's me">
 ##### LinkedIn[<img align="left" title="ritwik-raj-s-189562132" alt="ritwik-raj-s-189562132" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ritwik-raj-s-189562132)
 ##### Instagram[<img align="left" title="ritwik_raj_singh_" alt="ritwik_raj_singh_" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ritwik_raj_singh_/)
 ##### Gitlab[<img align="left" title="Ritwikrajsingh" alt="Ritwikrajsingh" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />](https://gitlab.com/Ritwikrajsingh)
