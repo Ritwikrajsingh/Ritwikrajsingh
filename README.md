@@ -18,7 +18,7 @@
 <!--##### Gitlab[<img align="left" title="Ritwikrajsingh" alt="Ritwikrajsingh" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />]--><!--(https://gitlab.com/Ritwikrajsingh)-->
 ##### Portfolio[<img align="left" title="COdeDEmon" alt="COdeDEmon" width="21px" src="https://ritwikrajsingh.github.io/assets/favicon/favicon-dark.png" />](https://ritwikrajsingh.github.io/)
 ##### Discord[<img align="left" title="the_demon" alt="the_demon#3059" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discordapp.com/users/the_demon#3059)
-##### Telegram[<img align="left" title="ritwikrajdhangta@gmail.com" alt="COdeDEmon" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">](#)
+##### Telegram[<img align="left" title="ritwikrajdhangta@gmail.com" alt="COdeDEmon" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">](https://t.me/ritwik_raj_singh)
 
 
 
