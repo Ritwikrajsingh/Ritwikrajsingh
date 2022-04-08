@@ -10,7 +10,7 @@
 <img align="center" title="Demon's Stats" width="536px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ritwikrajsingh&show_icons=true&hide_border=true&hide=issues&theme=graywhite" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DipanshuShukla&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritwikrajsingh&layout=compact" />
 </p>
 </div>
 
