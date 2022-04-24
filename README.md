@@ -18,9 +18,9 @@
 ## How to reach me
 ##### WhatsApp[<img align="left" title="Obscure" alt="919459415700" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/919459415700)
 ##### Twitter[<img align="left" title="RitwikRajSingh2" alt="RitwikRajSingh2" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RitwikRajSingh2/) <img align="right" width="190" height="190" alt="Good Day!" src="https://ritwikrajsingh.github.io/assets/images/good_day.png" title="That's me">
-##### LinkedIn[<img align="left" title="ritwik-raj-s-189562132" alt="ritwik-raj-s-189562132" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ritwik-raj-s-189562132)
-##### Instagram[<img align="left" title="ritwik_raj_singh_" alt="ritwik_raj_singh_" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/ritwik_raj_singh_/)
-<!--##### Gitlab[<img align="left" title="Ritwikrajsingh" alt="Ritwikrajsingh" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />]--><!--(https://gitlab.com/Ritwikrajsingh)-->
+##### LinkedIn[<img align="left" title="ritwik-raj-s-189562132" alt="ritwik-raj-s-189562132" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/ritwik-raj-s-189562132)
+<!---##### Instagram[<img align="left" title="ritwik_raj_singh_" alt="ritwik_raj_singh_" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg">]--><!--(https://www.instagram.com/ritwik_raj_singh_/)-->
+<!--##### Gitlab[<img align="left" title="Ritwikrajsingh" alt="Ritwikrajsingh" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />]--><!--(https://gitlab.com/Ritwikrajsingh)--->
 ##### Portfolio[<img align="left" title="COdeDEmon" alt="COdeDEmon" width="21px" src="https://ritwikrajsingh.github.io/assets/favicon/favicon-dark.png" />](https://ritwikrajsingh.github.io/)
 ##### Discord[<img align="left" title="the_demon" alt="the_demon#3059" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discordapp.com/users/the_demon#3059)
 ##### Telegram[<img align="left" title="ritwikrajdhangta@gmail.com" alt="COdeDEmon" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">](https://t.me/ritwik_raj_singh)
