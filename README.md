@@ -15,8 +15,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3) -->
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-<!-- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<!-- ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize&logoColor=007396)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
