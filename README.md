@@ -15,7 +15,7 @@
 </p>
 </div>
 
-## How to reach me
+## Social
 ##### WhatsApp[<img align="left" title="Obscure" alt="919459415700" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/919459415700)
 ##### Twitter[<img align="left" title="RitwikRajSingh2" alt="RitwikRajSingh2" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/RitwikRajSingh2/) <img align="right" width="190" height="190" alt="Good Day!" src="https://ritwikrajsingh.github.io/assets/images/good_day.png" title="That's me">
 ##### LinkedIn[<img align="left" title="ritwik-raj-s-189562132" alt="ritwik-raj-s-189562132" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/ritwik-raj-s-189562132)
@@ -25,7 +25,7 @@
 ##### LeetCode[<img align="left" title="ritwik-raj-s-189562132" alt="ritwik-raj-s-189562132" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg">](https://leetcode.com/Ritwikrajsingh)
 ##### Discord[<img align="left" title="the_demon" alt="the_demon#3059" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />](https://discordapp.com/users/the_demon#3059)
 ##### Telegram[<img align="left" title="ritwikrajdhangta@gmail.com" alt="COdeDEmon" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">](https://t.me/ritwik_raj_singh)
-##### Dev[<img align="left" title="ritwikrajdhangta@gmail.com" alt="ritwikrajsingh" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg">](https://dev.to/ritwikrajsingh)
+<!-- ##### Dev[<img align="left" title="ritwikrajdhangta@gmail.com" alt="ritwikrajsingh" width="21px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg">](https://dev.to/ritwikrajsingh) -->
 <img align="right" alt="Profile views" src="https://komarev.com/ghpvc/?username=Ritwikrajsingh&style=plastic" title="Views">
 
 <!--
