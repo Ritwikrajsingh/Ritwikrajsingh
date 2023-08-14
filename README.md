@@ -4,6 +4,23 @@
 - :robot: Crazy for gadgets.
 - :zap: Fun fact: Can easily be lured by a cup of tea and .... Yeah! I'm [technophilic](# "According to Wikipedia, Technophilic is a personality, having strong enthusiasm for technology, especially new technologies such as; personal computers, the Internet, mobile phones, etc..").
 - :heart_eyes: Perfection = Code :computer: + Tea :tea: + Music :headphones:
+
+<!--### 🖥️ Languages & Technologies:
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize&logoColor=007396)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) -->
+
 ## Stats
 <div>
 <p align="center">  
