@@ -5,9 +5,9 @@
 - :zap: Fun fact: Can easily be lured by a cup of tea and .... Yeah! I'm [technophilic](# "According to Wikipedia, Technophilic is a personality, having strong enthusiasm for technology, especially new technologies such as; personal computers, the Internet, mobile phones, etc..").
 - :heart_eyes: Perfection = Code :computer: + Tea :tea: + Music :headphones:
 
-<!--### 🖥️ Languages & Technologies:
+### 🖥️ Languages & Technologies:
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+<!--![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
