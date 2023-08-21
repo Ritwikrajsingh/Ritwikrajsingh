@@ -6,7 +6,7 @@
 - :heart_eyes: Perfection = Code :computer: + Tea :tea: + Music :headphones:
 
 <!-- ### 🖥️ Languages & Technologies: -->
-### Languages & Technologies:
+### Languages & Technologies
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 <!-- ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart)
