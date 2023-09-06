@@ -19,6 +19,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+<!-- ![Express.js](https://img.shields.io/badge/-express.js-000?logo=express) -->
 <!-- ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize&logoColor=007396) -->
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) -->
