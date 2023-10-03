@@ -33,7 +33,7 @@
 <img align="center" title="Demon's Stats" width="536px" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=ritwikrajsingh&show_icons=true&hide_border=true&hide=contribs&theme=graywhite" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritwikrajsingh&fire=fb8c00&ring=000000&currStreakLabel=000000&hide_border=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritwikrajsingh&fire=fb8c00&ring=000000&currStreakLabel=000000&hide_border=true&type=svg" />
 </p>
 </p>
 </div>
