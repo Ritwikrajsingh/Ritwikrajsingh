@@ -1,17 +1,17 @@
 ### Hi there! :wave: I'm Ritwik Raj Singh, aka [COdeDEmon](https://ritwikrajsingh.github.io/ "ritwikrajsingh.github.io").
 
-- :mortar_board: Currently a student of Computer Science.
-- :seedling: Still learning.
-- :robot: Crazy for gadgets.
-- :zap: Fun fact: Can easily be lured by a cup of tea and .... Yeah! I'm [technophilic](# "According to Wikipedia, Technophilic is a personality, having strong enthusiasm for technology, especially new technologies such as; personal computers, the Internet, mobile phones, etc..").
-- :heart_eyes: Perfection = Code :computer: + Tea :tea: + Music :headphones:
+-   :mortar_board: Currently a student of Computer Science.
+-   :seedling: Still learning.
+-   :robot: Crazy for gadgets.
+-   :zap: Fun fact: Can easily be lured by a cup of tea and .... Yeah! I'm [technophilic](# "According to Wikipedia, Technophilic is a personality, having strong enthusiasm for technology, especially new technologies such as; personal computers, the Internet, mobile phones, etc..").
+-   :heart_eyes: Perfection = Code :computer: + Tea :tea: + Music :headphones:
 
 <!-- ### 🖥️ Languages & Technologies: -->
 
 ### Languages & Technologies
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
 
