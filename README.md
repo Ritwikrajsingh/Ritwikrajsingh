@@ -1,5 +1,6 @@
 ### Hi there! :wave: I'm Ritwik Raj Singh, aka [COdeDEmon](https://ritwikrajsingh.github.io/ "ritwikrajsingh.github.io").
 
+-   :computer: Software Developer.
 -   :mortar_board: Bachelor of Technology in Computer Science & Engineering.
 -   :seedling: Lifelong learner.
 -   :robot: Crazy for gadgets.
