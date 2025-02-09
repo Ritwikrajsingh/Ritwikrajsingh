@@ -1,10 +1,10 @@
 ### Hi there! :wave: I'm Ritwik Raj Singh, aka [COdeDEmon](https://ritwikrajsingh.github.io/ "ritwikrajsingh.github.io").
 
--   :computer: Software Developer.
--   :mortar_board: Bachelor of Technology in Computer Science & Engineering.
--   :seedling: Lifelong learner.
--   :robot: Crazy for gadgets.
--   :zap: Fun fact: Can easily be lured by a cup of tea and .... Yeah! I'm [technophilic](# "According to Wikipedia, Technophilic is a personality, having strong enthusiasm for technology, especially new technologies such as; personal computers, the Internet, mobile phones, etc..").
+-   :computer: Software Developer
+-   :mortar_board: Bachelor of Technology in Computer Science & Engineering
+-   :seedling: Lifelong learner
+-   :robot: Crazy for gadgets
+-   :zap: Fun fact: Can easily be lured by a cup of tea and... Yeah! I'm [technophilic](# "According to Wikipedia, Technophilic is a personality, having strong enthusiasm for technology, especially new technologies such as; personal computers, the Internet, mobile phones, etc..")
 -   :heart_eyes: Perfection = Code :computer: + Tea :tea: + Music :headphones:
 
 <!-- ### 🖥️ Languages & Technologies: -->
