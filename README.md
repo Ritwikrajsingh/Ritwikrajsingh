@@ -16,6 +16,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python "Python")
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5 "HTML5")
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css&logoColor=663399 "CSS3")
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=A8B9CC "C")
 
 <!-- ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) -->
