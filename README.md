@@ -23,10 +23,11 @@
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) -->
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) -->
 
+![React](https://img.shields.io/badge/-React-000?&logo=React "React")
+
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js "Node.js")
-![React](https://img.shields.io/badge/-React-000?&logo=React "React")
 
 <!-- ![Express.js](https://img.shields.io/badge/-express.js-000?logo=express) -->
 <!-- ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=Sequelize&logoColor=007396) -->
