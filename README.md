@@ -25,6 +25,7 @@
 
 ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express "Express.js")
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=sequelize "Sequelize")
+![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=mongoose&logoColor=880000 "Mongoose")
 ![React](https://img.shields.io/badge/-React-000?&logo=React "React")
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
