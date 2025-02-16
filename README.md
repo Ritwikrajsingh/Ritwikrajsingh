@@ -27,6 +27,7 @@
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=sequelize "Sequelize")
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=mongoose&logoColor=880000 "Mongoose")
 ![React](https://img.shields.io/badge/-React-000?&logo=React "React")
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs "Next.js")
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
@@ -34,7 +35,6 @@
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) -->
-<!-- ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js) -->
 <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat-square&logo=bootstrap) -->
 <!-- ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter) -->
 
