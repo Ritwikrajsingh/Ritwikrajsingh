@@ -28,6 +28,7 @@
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=mongoose&logoColor=880000 "Mongoose")
 ![React](https://img.shields.io/badge/-React-000?&logo=React "React")
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs "Next.js")
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?style=flat&logo=tailwindcss "Tailwind CSS")
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
