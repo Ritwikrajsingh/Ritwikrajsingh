@@ -30,6 +30,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=nextdotjs "Next.js")
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?style=flat&logo=tailwindcss "Tailwind CSS")
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap "Bootstrap")
+![Socket.IO​](https://img.shields.io/badge/-Socket.IO​-000?style=flat&logo=socketdotio "Socket.IO​")
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
