@@ -31,6 +31,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?style=flat&logo=tailwindcss "Tailwind CSS")
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap "Bootstrap")
 ![Socket.IO​](https://img.shields.io/badge/-Socket.IO​-000?style=flat&logo=socketdotio "Socket.IO​")
+![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter&logoColor=02569B "Flutter")
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
@@ -38,7 +39,6 @@
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) -->
-<!-- ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter) -->
 
 ## Stats
 
