@@ -33,9 +33,9 @@
 ![Socket.IO​](https://img.shields.io/badge/-Socket.IO​-000?style=flat&logo=socketdotio "Socket.IO​")
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter&logoColor=02569B "Flutter")
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js "Node.js")
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
 
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) -->
