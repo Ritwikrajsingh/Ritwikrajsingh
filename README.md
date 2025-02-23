@@ -35,10 +35,9 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git "Git")
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js "Node.js")
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql "MySQL")
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248 "MongoDB")
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
-
-<!-- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) -->
 
 ## Stats
 
