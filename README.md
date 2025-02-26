@@ -40,6 +40,7 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb&logoColor=47A248 "MongoDB")
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis "Redis")
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
+![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud-000?&logo=googlecloud "Google Cloud Platform")
 
 ## Stats
 
