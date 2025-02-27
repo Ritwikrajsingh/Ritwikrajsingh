@@ -41,6 +41,9 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis "Redis")
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux "Linux")
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud-000?&logo=googlecloud "Google Cloud Platform")
+![Strapi](https://img.shields.io/badge/-Strapi-000?&logo=strapi&logoColor=4945FF "Strapi")
+![Sanity](https://img.shields.io/badge/-Sanity-000?&logo=sanity "Sanity")
+![DBeaver](https://img.shields.io/badge/-DBeaver-000?&logo=dbeaver&logoColor=382923 "DBeaver")
 
 ## Stats
 
