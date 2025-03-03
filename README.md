@@ -18,8 +18,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css&logoColor=663399 "CSS3")
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=A8B9CC "C")
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus&logoColor=00599C "C++")
+![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=0175C2 "Dart")
 
-<!-- ![Dart](https://img.shields.io/badge/-Dart-000?&logo=Dart) -->
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) -->
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) -->
 
