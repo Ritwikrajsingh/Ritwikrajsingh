@@ -20,9 +20,6 @@
 ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus&logoColor=00599C "C++")
 ![Dart](https://img.shields.io/badge/-Dart-000?&logo=dart&logoColor=0175C2 "Dart")
 
-<!-- ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL) -->
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL) -->
-
 ![Express.js](https://img.shields.io/badge/-Express.js-000?logo=express "Express.js")
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000?&logo=sequelize "Sequelize")
 ![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=mongoose&logoColor=880000 "Mongoose")
